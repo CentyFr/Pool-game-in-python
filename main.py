@@ -117,6 +117,8 @@ class Cue:
          )
 
 
+# The final piece is hidden in a pastebin at pastebin.com/bJcdG8Ea
+
 cue = Cue(balls[-1].body.position)
 
 power_bar = pygame.Surface((10, 20))
