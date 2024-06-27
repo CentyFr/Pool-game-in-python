@@ -117,7 +117,7 @@ class Cue:
          )
 
 
-# The final piece is hidden in a pastebin at pastebin.com/bJcdG8Ea
+# The final piece is hidden in a pastebin at https://pastebin.com/Ng3iijXP
 
 cue = Cue(balls[-1].body.position)
 
